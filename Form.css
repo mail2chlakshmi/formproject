@@ -1,0 +1,29 @@
+.form-center {
+    border: 3px solid green;
+    width: 400px;
+    margin: 100px auto;
+    padding: 10px;
+}
+
+.form-heading {
+font-weight: bold;
+border-bottom: 1px solid;
+}
+
+.radio-grp {
+    margin: 10px auto;
+}
+
+label {
+font-weight: bold;
+padding-right: 10px;
+}
+
+button {
+   margin-top: 20px;
+   background-color: #4CAF50;
+   border: none;
+   display:inline-block;
+   color:white;
+   padding: 15px 32px;
+}
